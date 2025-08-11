@@ -34,9 +34,7 @@ BankaUygulamasi/
 │
 ├── UI/                         # Kullanıcı arayüzü (konsol)
 │   └── UygulamaMenu.cs
-│
-└── Helpers/                    # Yardımcı sınıflar
-    └── StaticClass.cs
+
 ```
 ## 🛠 Kurulum ve Çalıştırma
 
