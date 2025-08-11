@@ -17,28 +17,27 @@ Kullanıcılar hesap açabilir, para yatırabilir, para çekebilir, bakiye gör�
 ---
 
 ## 📂 Proje Yapısı
+```plaintext
 BankaUygulamasi/
 │
-├── Program.cs # Uygulama başlangıç noktası
+├── Program.cs                  # Uygulama başlangıç noktası
 │
-├── Interfaces/ # Arayüz tanımları
-│ ├── IBankaHesabi.cs
-│ └── IBankaIslemleri.cs
+├── Interfaces/                 # Arayüz tanımları
+│   ├── IBankaHesabi.cs
+│   └── IBankaIslemleri.cs
 │
-├── Models/ # Veri modelleri
-│ └── BankaHesabi.cs
+├── Models/                     # Veri modelleri
+│   └── BankaHesabi.cs
 │
-├── Services/ # İş mantığı
-│ └── BankaIslemleri.cs
+├── Services/                   # İş mantığı
+│   └── BankaIslemleri.cs
 │
-├── UI/ # Kullanıcı arayüzü (konsol)
-│ └── UygulamaMenu.cs
+├── UI/                         # Kullanıcı arayüzü (konsol)
+│   └── UygulamaMenu.cs
 │
-└── Helpers/ # Yardımcı sınıflar
-└── StaticClass.cs
-
----
-
+└── Helpers/                    # Yardımcı sınıflar
+    └── StaticClass.cs
+```
 ## 🛠 Kurulum ve Çalıştırma
 
 1. **Projeyi klonlayın**
