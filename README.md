@@ -33,7 +33,9 @@ BankaUygulamasi/
 │
 ├── UI/ # Kullanıcı arayüzü (konsol)
 │ └── UygulamaMenu.cs
-
+│
+└── Helpers/ # Yardımcı sınıflar
+└── StaticClass.cs
 
 ---
 
@@ -47,6 +49,6 @@ BankaUygulamasi/
    ```bash
    dotnet build
 
-3.**Uygulamayı Çalıştırın**
-```bash
-dotnet run
+ 3.**Uygulamayı Çalıştırın**
+   ```bash
+   dotnet run
