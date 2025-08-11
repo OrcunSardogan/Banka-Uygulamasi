@@ -1,0 +1,14 @@
+/Users/orcunsardogan/Desktop/BankaUygulamasi/bin/Debug/net9.0/BankaUygulamasi
+/Users/orcunsardogan/Desktop/BankaUygulamasi/bin/Debug/net9.0/BankaUygulamasi.deps.json
+/Users/orcunsardogan/Desktop/BankaUygulamasi/bin/Debug/net9.0/BankaUygulamasi.runtimeconfig.json
+/Users/orcunsardogan/Desktop/BankaUygulamasi/bin/Debug/net9.0/BankaUygulamasi.dll
+/Users/orcunsardogan/Desktop/BankaUygulamasi/bin/Debug/net9.0/BankaUygulamasi.pdb
+/Users/orcunsardogan/Desktop/BankaUygulamasi/obj/Debug/net9.0/BankaUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/orcunsardogan/Desktop/BankaUygulamasi/obj/Debug/net9.0/BankaUygulamasi.AssemblyInfoInputs.cache
+/Users/orcunsardogan/Desktop/BankaUygulamasi/obj/Debug/net9.0/BankaUygulamasi.AssemblyInfo.cs
+/Users/orcunsardogan/Desktop/BankaUygulamasi/obj/Debug/net9.0/BankaUygulamasi.csproj.CoreCompileInputs.cache
+/Users/orcunsardogan/Desktop/BankaUygulamasi/obj/Debug/net9.0/BankaUygulamasi.dll
+/Users/orcunsardogan/Desktop/BankaUygulamasi/obj/Debug/net9.0/refint/BankaUygulamasi.dll
+/Users/orcunsardogan/Desktop/BankaUygulamasi/obj/Debug/net9.0/BankaUygulamasi.pdb
+/Users/orcunsardogan/Desktop/BankaUygulamasi/obj/Debug/net9.0/BankaUygulamasi.genruntimeconfig.cache
+/Users/orcunsardogan/Desktop/BankaUygulamasi/obj/Debug/net9.0/ref/BankaUygulamasi.dll
